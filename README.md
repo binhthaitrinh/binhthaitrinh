@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@binhthaitrinh-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/binhthaitrinh/)
 [![](https://img.shields.io/website?color=E44D27&style=flat-square&up_message=https://binhtrinh.dev&url=https%3A%2F%2Fbinhtrinh.dev)](https://binhtrinh.dev)
 
-I am a Fullstack Javascript Web Developer with an eye for clean Aesthetics and optimal User Experience via intuitive design.
+I am a Fullstack Javascript Web Developer with an eye for clean Aesthetics and optimal User Experience via intuitive design. Specialize in: MongoDB, Express.js, React.js, Node.js
 
 To grow my skills, I am focusing on developing a Full-stack application for my business called Talaria Order.
 
