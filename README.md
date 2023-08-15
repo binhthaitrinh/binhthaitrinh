@@ -1,4 +1,4 @@
-# Hi there 👋. My name is Binh Trinh
+# Hi there 👋. My name is Kyle Trinh
 
 [![](https://img.shields.io/badge/-@binhthaitrinh-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/binhthaitrinh)
 [![](https://img.shields.io/badge/-@binhthaitrinh-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/binhthaitrinh/)
